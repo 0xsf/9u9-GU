@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 啥是9u9?
 
-You can use the [editor on GitHub](https://github.com/0xsf/9u9-gustudio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+9u9是gustudio的主要展示网站.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 9u9能干些啥
 
-### Markdown
+Gustudio下的任何项目均由9u9发布.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+并且所有项目均可在9u9上找到
 
-```markdown
-Syntax highlighted code block
+##  9u9 还能干些啥
 
-# Header 1
-## Header 2
-### Header 3
+Gustudio的网络app均会发表至9u9.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0xsf/9u9-gustudio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ >若您有意愿参加我们工作室,您可邮箱gu0xsf@126.com了解更多.
+ 
+ 
+ ## 项目列表
+ 
+ 
